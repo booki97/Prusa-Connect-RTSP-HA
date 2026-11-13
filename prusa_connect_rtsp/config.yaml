@@ -9,7 +9,7 @@ arch:
   - armhf
   - armv7
   - i386
-url: "https://github.com/schmacka/Prusa-Connect-RTSP-HA"
+url: "https://github.com/booki97/Prusa-Connect-RTSP-HA"
 startup: application
 boot: auto
 init: false
